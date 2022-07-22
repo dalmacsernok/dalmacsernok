@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-<p><img align="right" src="https://cdn.dribbble.com/users/2514124/screenshots/5439070/girl_3.gif" width="450px" height="350px" alt="dalma-csernok" /></p>
+<p><img align="right" src="https://cdn.dribbble.com/users/2514124/screenshots/5439070/girl_3.gif" width="450px" height="310px" alt="dalma-csernok" /></p>
 
 <p align="left"> 🔭 I’m Dalma, 26 years old, living in Budapest, Hungary.</p>
 
