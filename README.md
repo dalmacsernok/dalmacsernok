@@ -28,12 +28,6 @@
 ![Javascript](http://img.shields.io/badge/-Javascript-blueviolet?style=flat-square&logo=javascript&logoColor=black)
 ![Python](http://img.shields.io/badge/-Python-aquamarine?style=flat-square&logo=python&logoColor=black)
 
-### Front-End Development
-![HTML5](http://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=black)
-![CSS3](http://img.shields.io/badge/-CSS3-turquoise?style=flat-square&logo=css3&logoColor=black)
-![React](http://img.shields.io/badge/-React-dodgerblue?style=flat-square&logo=react&logoColor=black)
-![Javascript](http://img.shields.io/badge/-Javascript-blueviolet?style=flat-square&logo=javascript&logoColor=black)
-
 ### Database Management Systems
 ![SQL](http://img.shields.io/badge/-SQL-darkgreen?style=flat-square)
 ![PostgreSQL](http://img.shields.io/badge/-PostgreSQL-lightseagreen?style=flat-square&logo=postgresql&logoColor=black)
@@ -45,6 +39,12 @@
 ![.NETCore](http://img.shields.io/badge/-.NET_Core-greenyellow?style=flat-square&logo=.NET&logoColor=black)
 ![NUnit](http://img.shields.io/badge/-NUnit-gray?style=flat-square&)
 ![Bootstrap](http://img.shields.io/badge/-Bootstrap-indianred?style=flat-square&logo=bootstrap&logoColor=black)
+
+### Front-End Development
+![HTML5](http://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=black)
+![CSS3](http://img.shields.io/badge/-CSS3-turquoise?style=flat-square&logo=css3&logoColor=black)
+![React](http://img.shields.io/badge/-React-dodgerblue?style=flat-square&logo=react&logoColor=black)
+![Javascript](http://img.shields.io/badge/-Javascript-blueviolet?style=flat-square&logo=javascript&logoColor=black)
 
 ### Git related
 ![Git](http://img.shields.io/badge/-Git-moccasin?style=flat-square&logo=git&logoColor=black)
