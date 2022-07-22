@@ -1,10 +1,13 @@
-## Hi there 👋
+## Hi there! 👋
 
-- 🔭 I’m Dalma, 26 years old, living in Budapest, Hungary.
-- 🌱 I’m a Full Stack Developer at Codecool. 
-- 📫 How to reach me: https://www.linkedin.com/in/dalma-csernok-053928239/ or dlmcsernok@gmail.com
-- 😄 Pronouns: she/her
-- 🌺 My hobbies: 📚🍳🏃‍♀️  
+<p><img align="right" src="https://cdn.dribbble.com/users/2514124/screenshots/5439070/girl_3.gif" width="500px" height="350px" alt="dalma-csernok" /></p>
+
+<p align="left"> 🔭 I’m Dalma, 26 years old, living in Budapest, Hungary.</p>
+<p align="left">🌱 I’m a Full Stack Developer at Codecool.</p> 
+<p align="left">📫 How to reach me: https://www.linkedin.com/in/dalma-csernok-053928239/ or dlmcsernok@gmail.com</p>
+<p align="left">😄 Pronouns: she/her</p>
+<p align="left">🌺 My hobbies: 📚🍳🏃‍♀️</p>
+
 
 ## My Skills 🔍
 
@@ -49,17 +52,9 @@
 
 ## 📊 Github Stats
 
-  <br/>
-  <p align="center">
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dalmacsernok&show_icons=true&locale=en&layout=compact&theme=algolia" alt="dalmacsernok" height="192px"/>
-  <br/>
-  </p>
-  
+[![Dalma's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dalmacsernok&theme=tokyonight)](https://git.io/praveenscience)
 
-  <br/>
-   <a href="https://github.com/dalmacsernok"><img alt="Damlma's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dalmacsernok&custom_title=dalmacsernok's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dalmacsernok&theme=tokyonight)
+![Github Stars](https://github-readme-stats.vercel.app/api?username=dalmacsernok&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight)
   
   
