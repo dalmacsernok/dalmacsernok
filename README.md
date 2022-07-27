@@ -27,9 +27,9 @@
 ![C#](http://img.shields.io/badge/-C%23-blue?style=flat-square&logo=csharp&logoColor=black)
 ![Javascript](http://img.shields.io/badge/-Javascript-blueviolet?style=flat-square&logo=javascript&logoColor=black)
 ![Python](http://img.shields.io/badge/-Python-aquamarine?style=flat-square&logo=python&logoColor=black)
+![SQL](http://img.shields.io/badge/-SQL-darkgreen?style=flat-square)
 
 ### Database Management Systems
-![SQL](http://img.shields.io/badge/-SQL-darkgreen?style=flat-square)
 ![PostgreSQL](http://img.shields.io/badge/-PostgreSQL-lightseagreen?style=flat-square&logo=postgresql&logoColor=black)
 ![Microsoft SQL Server](http://img.shields.io/badge/-Microsoft_SQL_Server-darkorange?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
