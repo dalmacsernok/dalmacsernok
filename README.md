@@ -52,9 +52,7 @@
 ![GitHub](http://img.shields.io/badge/-GitHub-lime?style=flat-square&logo=github&logoColor=black)
 ![GitHub Issues](http://img.shields.io/badge/-GitHub_Issues-hotpink?style=flat-square&logo=github&logoColor=black)
 
-## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dalmacsernok&theme=tokyonight)
  
   
   
